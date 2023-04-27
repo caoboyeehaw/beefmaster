@@ -13,3 +13,7 @@ The ultimate goal is a functional web desktop application that uses brokerage ap
 
 The first iterations will only be able to trade paper money for stocks, then move on to real money, then move onto options.
 The application will NEVER trade anything that has to do with margins, and if which, will be covered by opposite leg straddles, or, spreads.
+
+
+Tauri Documentation: https://tauri.app/v1/guides/
+Rust Documentation: https://doc.rust-lang.org/std/index.html
